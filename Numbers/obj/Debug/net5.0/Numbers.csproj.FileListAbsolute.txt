@@ -13,3 +13,4 @@ D:\Projetos\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.dll
 D:\Projetos\C#\Numbers\Numbers\obj\Debug\net5.0\ref\Numbers.dll
 D:\Projetos\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.pdb
 D:\Projetos\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache
+D:\Projetos\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.csproj.AssemblyReference.cache
